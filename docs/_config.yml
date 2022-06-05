@@ -1,1 +1,8 @@
+permalink: /:collection/:year-:month-:day-:title:output_ext
+show_excerpts: true
+
+# Build settings
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
+
